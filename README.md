@@ -24,8 +24,8 @@ If you like this project, hit the **STAR** button to bookmark it ⭐️
 
 ## Demonstration
 
-- **Store Link**: https://maxvien-bootstrap.myshopify.com
-- **Store Password**: `maxvien`
+//- **Store Link**: https://maxvien-bootstrap.myshopify.com
+//- **Store Password**: `maxvien`
 
 ## Installation
 
