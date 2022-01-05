@@ -1,10 +1,10 @@
 [
   {
     "name": "theme_info",
-    "theme_name": "Bootstrap",
+    "theme_name": "Bootstrap Shopify Theme",
     "theme_version": "3.0.0",
-    "theme_author": "Vien Dinh",
-    "theme_documentation_url": "https://github.com/maxvien/bootstrap-shopify-theme",
-    "theme_support_url": "https://github.com/maxvien/bootstrap-shopify-theme/issues"
+    "theme_author": "Muhammad Hamza",
+    "theme_documentation_url": "https://github.com/hamzaxtone/shopify-bootstrap-theme",
+    "theme_support_url": "https://github.com/hamzaxtone/shopify-bootstrap-theme/issues"
   }
 ]
